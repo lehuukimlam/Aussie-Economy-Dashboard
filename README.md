@@ -6,6 +6,8 @@ This project builds an interactive Power BI dashboard supported by a transparent
 The project follows the CRISP-DM (Cross-Industry Standard Process for Data Mining) methodology to ensure a structured, iterative data science approach.
 
 ---
+## Project Workflow
+<img width="1357" height="518" alt="image" src="https://github.com/user-attachments/assets/af5be13f-9f8b-464d-94a6-70d5ecc8256d" />
 
 ## 📌 Framework: CRISP-DM
 
@@ -103,3 +105,4 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 ## 📄 License
 
 MIT — feel free to fork, build, or contribute.
+
