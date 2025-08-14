@@ -1,0 +1,295 @@
+IndicatorID,Indicator Name,Unit,Series Type,Data Type,Frequency,Collection Month,Series Start,Series End,No. Obs
+1,General government - National   Final consumption expenditure - Defence,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+2,General government - National   Final consumption expenditure - Non-defence,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+3,General government - National   Final consumption expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+4,General government - State and local   Final consumption expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+5,General government   Final consumption expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+6,Households   Final consumption expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+7,All sectors   Final consumption expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+8,Private   Gross fixed capital formation - Dwellings - New and Used,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+9,Private   Gross fixed capital formation - Dwellings - Alterations and additions,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+10,Private   Gross fixed capital formation - Dwellings - Total,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+11,Private   Gross fixed capital formation - Ownership transfer costs,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+12,Private   Gross fixed capital formation - Non-dwelling construction - New building,$ Millions,Trend,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+13,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction,$ Millions,Trend,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+14,Private   Gross fixed capital formation - Non-dwelling construction - Total,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+15,Private   Gross fixed capital formation - Machinery and equipment - New,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+16,Private   Gross fixed capital formation - Machinery and equipment - Total,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+17,Private   Gross fixed capital formation - Cultivated biological resources,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+18,Private   Gross fixed capital formation - Intellectual property products - Research and development,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+19,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+20,Private   Gross fixed capital formation - Intellectual property products - Computer software,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+21,Private   Gross fixed capital formation - Intellectual property products - Artistic originals,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+22,Private   Gross fixed capital formation - Intellectual property products,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+23,Private   Gross fixed capital formation - Total private business investment,$ Millions,Trend,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+24,Private   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+25,Public corporations - Commonwealth   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+26,Public corporations - State and local   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+27,Public corporations   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+28,General government - National   Gross fixed capital formation - Defence,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+29,General government - National   Gross fixed capital formation - Non-defence,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+30,General government - National   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+31,General government - State and local   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+32,General government   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+33,Public   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+34,All sectors   Gross fixed capital formation,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+35,Domestic final demand,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+36,Changes in inventories,$ Millions,Trend,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+37,Gross national expenditure,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+38,Exports of goods and services,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+39,Imports of goods and services,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+40,Statistical discrepancy (E),$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+41,GROSS DOMESTIC PRODUCT,$ Millions,Trend,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+42,General government - National   Final consumption expenditure - Defence: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+43,General government - National   Final consumption expenditure - Non-defence: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+44,General government - National   Final consumption expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+45,General government - State and local   Final consumption expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+46,General government   Final consumption expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+47,Households   Final consumption expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+48,All sectors   Final consumption expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+49,Private   Gross fixed capital formation - Dwellings - New and Used: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+50,Private   Gross fixed capital formation - Dwellings - Alterations and additions: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+51,Private   Gross fixed capital formation - Dwellings - Total: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+52,Private   Gross fixed capital formation - Ownership transfer costs: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+53,Private   Gross fixed capital formation - Non-dwelling construction - New building: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1976 0:00,3/1/2025 0:00,194
+54,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1976 0:00,3/1/2025 0:00,194
+55,Private   Gross fixed capital formation - Non-dwelling construction - Total: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+56,Private   Gross fixed capital formation - Machinery and equipment - New: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+57,Private   Gross fixed capital formation - Machinery and equipment - Total: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+58,Private   Gross fixed capital formation - Cultivated biological resources: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+59,Private   Gross fixed capital formation - Intellectual property products - Research and development: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+60,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+61,Private   Gross fixed capital formation - Intellectual property products - Computer software: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+62,Private   Gross fixed capital formation - Intellectual property products - Artistic originals: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+63,Private   Gross fixed capital formation - Intellectual property products: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+64,Private   Gross fixed capital formation - Total private business investment: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+65,Private   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+66,Public corporations - Commonwealth   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+67,Public corporations - State and local   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+68,Public corporations   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+69,General government - National   Gross fixed capital formation - Defence: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+70,General government - National   Gross fixed capital formation - Non-defence: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+71,General government - National   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+72,General government - State and local   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+73,General government   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+74,Public   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+75,All sectors   Gross fixed capital formation: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+76,Domestic final demand: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+77,Gross national expenditure: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+78,Exports of goods and services: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+79,Imports of goods and services: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+80,GROSS DOMESTIC PRODUCT: Percentage changes,Percent,Trend,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+81,General government - National   Final consumption expenditure - Defence .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+82,General government - National   Final consumption expenditure - Non-defence .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+83,General government - National   Final consumption expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+84,General government - State and local   Final consumption expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+85,General government   Final consumption expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+86,Households   Final consumption expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+87,All sectors   Final consumption expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+88,Private   Gross fixed capital formation - Dwellings - New and Used .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+89,Private   Gross fixed capital formation - Dwellings - Alterations and additions .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+90,Private   Gross fixed capital formation - Dwellings - Total .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+91,Private   Gross fixed capital formation - Ownership transfer costs .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+92,Private   Gross fixed capital formation - Non-dwelling construction - New building .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+93,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+94,Private   Gross fixed capital formation - Non-dwelling construction - Net purchase of second hand assets,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+95,Private   Gross fixed capital formation - Non-dwelling construction - Total .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+96,Private   Gross fixed capital formation - Machinery and equipment - New .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+97,Private   Gross fixed capital formation - Machinery and equipment - Net purchase of second hand assets,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1970 0:00,3/1/2025 0:00,219
+98,Private   Gross fixed capital formation - Machinery and equipment - Total .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+99,Private   Gross fixed capital formation - Cultivated biological resources .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+100,Private   Gross fixed capital formation - Intellectual property products - Research and development .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+101,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+102,Private   Gross fixed capital formation - Intellectual property products - Computer software .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+103,Private   Gross fixed capital formation - Intellectual property products - Artistic originals .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+104,Private   Gross fixed capital formation - Intellectual property products .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+105,Private   Gross fixed capital formation - Total private business investment .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+106,Private   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+107,Public corporations - Commonwealth   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+108,Public corporations - State and local   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+109,Public corporations   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+110,General government - National   Gross fixed capital formation - Defence .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+111,General government - National   Gross fixed capital formation - Non-defence .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+112,General government - National   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+113,General government - State and local   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+114,General government   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+115,Public   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+116,All sectors   Gross fixed capital formation .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+117,Domestic final demand .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+118,Changes in inventories .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+119,Gross national expenditure .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+120,Exports of goods and services .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+121,Imports of goods and services .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+122,Statistical discrepancy (E) .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+123,GROSS DOMESTIC PRODUCT .1,$ Millions,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+124,General government - National   Final consumption expenditure - Defence: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+125,General government - National   Final consumption expenditure - Non-defence: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+126,General government - National   Final consumption expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+127,General government - State and local   Final consumption expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+128,General government   Final consumption expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+129,Households   Final consumption expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+130,All sectors   Final consumption expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+131,Private   Gross fixed capital formation - Dwellings - New and Used: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+132,Private   Gross fixed capital formation - Dwellings - Alterations and additions: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+133,Private   Gross fixed capital formation - Dwellings - Total: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+134,Private   Gross fixed capital formation - Ownership transfer costs: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+135,Private   Gross fixed capital formation - Non-dwelling construction - New building: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1976 0:00,3/1/2025 0:00,194
+136,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1976 0:00,3/1/2025 0:00,194
+137,Private   Gross fixed capital formation - Non-dwelling construction - Total: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+138,Private   Gross fixed capital formation - Machinery and equipment - New: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+139,Private   Gross fixed capital formation - Machinery and equipment - Total: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+140,Private   Gross fixed capital formation - Cultivated biological resources: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+141,Private   Gross fixed capital formation - Intellectual property products - Research and development: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+142,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+143,Private   Gross fixed capital formation - Intellectual property products - Computer software: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+144,Private   Gross fixed capital formation - Intellectual property products - Artistic originals: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+145,Private   Gross fixed capital formation - Intellectual property products: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+146,Private   Gross fixed capital formation - Total private business investment: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1985 0:00,3/1/2025 0:00,158
+147,Private   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+148,Public corporations - Commonwealth   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+149,Public corporations - State and local   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+150,Public corporations   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+151,General government - National   Gross fixed capital formation - Defence: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+152,General government - National   Gross fixed capital formation - Non-defence: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+153,General government - National   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+154,General government - State and local   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+155,General government   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+156,Public   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+157,All sectors   Gross fixed capital formation: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+158,Domestic final demand: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+159,Gross national expenditure: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+160,Exports of goods and services: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+161,Imports of goods and services: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+162,GROSS DOMESTIC PRODUCT: Percentage changes .1,Percent,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+163,General government - National   Final consumption expenditure - Defence .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+164,General government - National   Final consumption expenditure - Non-defence .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+165,General government - National   Final consumption expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+166,General government - State and local   Final consumption expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+167,General government   Final consumption expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+168,Households   Final consumption expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+169,All sectors   Final consumption expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+170,Private   Gross fixed capital formation - Dwellings - New and Used .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+171,Private   Gross fixed capital formation - Dwellings - Alterations and additions .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+172,Private   Gross fixed capital formation - Dwellings - Total .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+173,Private   Gross fixed capital formation - Ownership transfer costs .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+174,Private   Gross fixed capital formation - Non-dwelling construction - New building .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+175,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1976 0:00,3/1/2025 0:00,195
+176,Private   Gross fixed capital formation - Non-dwelling construction - Net purchase of second hand assets .1,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+177,Private   Gross fixed capital formation - Machinery and equipment - New .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+178,Private   Gross fixed capital formation - Machinery and equipment - Net purchase of second hand assets .1,$ Millions,Original,DERIVED,Quarter,3,9/1/1970 0:00,3/1/2025 0:00,219
+179,Private   Gross fixed capital formation - Machinery and equipment - Total .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+180,Private   Gross fixed capital formation - Non-dwelling construction - Total .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+181,Private   Gross fixed capital formation - Cultivated biological resources .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+182,Private   Gross fixed capital formation - Intellectual property products - Research and development .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+183,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+184,Private   Gross fixed capital formation - Intellectual property products - Computer software .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+185,Private   Gross fixed capital formation - Intellectual property products - Artistic originals .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+186,Private   Gross fixed capital formation - Intellectual property products .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+187,Private   Gross fixed capital formation - Total private business investment .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1985 0:00,3/1/2025 0:00,159
+188,Private   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+189,Public corporations - Commonwealth   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+190,Public corporations - State and local   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+191,Public corporations   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+192,General government - National   Gross fixed capital formation - Defence .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+193,General government - National   Gross fixed capital formation - Non-defence .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+194,General government - National   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+195,General government - State and local   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+196,General government   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+197,Public   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+198,All sectors   Gross fixed capital formation .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+199,Domestic final demand .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+200,Private   Non-farm   Changes in inventories,$ Millions,Original,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+201,Farm   Changes in inventories,$ Millions,Original,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+202,Public authorities   Changes in inventories,$ Millions,Original,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+203,Changes in inventories .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1974 0:00,3/1/2025 0:00,203
+204,Gross national expenditure .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+205,Exports of goods and services .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+206,Imports of goods and services .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+207,Statistical discrepancy (E) .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+208,GROSS DOMESTIC PRODUCT .2,$ Millions,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+209,General government - National   Final consumption expenditure - Defence: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+210,General government - National   Final consumption expenditure - Non-defence: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+211,General government - National   Final consumption expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+212,General government - State and local   Final consumption expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+213,General government   Final consumption expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+214,Households   Final consumption expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+215,All sectors   Final consumption expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+216,Private   Gross fixed capital formation - Dwellings - New and Used: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+217,Private   Gross fixed capital formation - Dwellings - Alterations and additions: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+218,Private   Gross fixed capital formation - Dwellings - Total: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+219,Private   Gross fixed capital formation - Ownership transfer costs: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+220,Private   Gross fixed capital formation - Non-dwelling construction - New building: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+221,Private   Gross fixed capital formation - Non-dwelling construction - New engineering construction: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+222,Private   Gross fixed capital formation - Non-dwelling construction - Net purchase of second hand assets: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+223,Private   Gross fixed capital formation - Non-dwelling construction - Total: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+224,Private   Gross fixed capital formation - Machinery and equipment - New: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+225,Private   Gross fixed capital formation - Machinery and equipment - Net purchase of second hand assets: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+226,Private   Gross fixed capital formation - Machinery and equipment - Total: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+227,Private   Gross fixed capital formation - Cultivated biological resources: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+228,Private   Gross fixed capital formation - Intellectual property products - Research and development: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+229,Private   Gross fixed capital formation - Intellectual property products - Mineral and petroleum exploration: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+230,Private   Gross fixed capital formation - Intellectual property products - Computer software: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+231,Private   Gross fixed capital formation - Intellectual property products - Artistic originals: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+232,Private   Gross fixed capital formation - Intellectual property products: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+233,Private   Gross fixed capital formation - Total private business investment: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+234,Private   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+235,Public corporations - Commonwealth   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+236,Public corporations - State and local   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+237,Public corporations   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+238,General government - National   Gross fixed capital formation - Defence: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+239,General government - National   Gross fixed capital formation - Non-defence: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+240,General government - National   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+241,General government - State and local   Gross fixed capital formation - State and local: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+242,General government   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+243,Public   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+244,All sectors   Gross fixed capital formation: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+245,Domestic final demand: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+246,Changes in inventories: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+247,Gross national expenditure: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+248,Exports of goods and services: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+249,Imports of goods and services: Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,9/1/1960 0:00,3/1/2025 0:00,259
+250,Statistical discrepancy (E): Contributions to growth,Index Points,Seasonally Adjusted,DERIVED,Quarter,3,12/1/1959 0:00,3/1/2025 0:00,262
+251,Index Numbers   All groups CPI   Sydney,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+252,Index Numbers   All groups CPI   Melbourne,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+253,Index Numbers   All groups CPI   Brisbane,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+254,Index Numbers   All groups CPI   Adelaide,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+255,Index Numbers   All groups CPI   Perth,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+256,Index Numbers   All groups CPI   Hobart,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+257,Index Numbers   All groups CPI   Darwin,Index Numbers,Original,INDEX,Quarter,3,9/1/1980 0:00,6/1/2025 0:00,180
+258,Index Numbers   All groups CPI   Canberra,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+259,Index Numbers   All groups CPI   Australia,Index Numbers,Original,INDEX,Quarter,3,9/1/1948 0:00,6/1/2025 0:00,308
+260,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Sydney,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+261,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Melbourne,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+262,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Brisbane,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+263,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Adelaide,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+264,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Perth,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+265,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Hobart,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+266,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Darwin,Percent,Original,PERCENT,Quarter,3,9/1/1981 0:00,6/1/2025 0:00,176
+267,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Canberra,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+268,Percentage Change from Corresponding Quarter of Previous Year   All groups CPI   Australia,Percent,Original,PERCENT,Quarter,3,9/1/1949 0:00,6/1/2025 0:00,304
+269,Percentage Change from Previous Period   All groups CPI   Sydney,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+270,Percentage Change from Previous Period   All groups CPI   Melbourne,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+271,Percentage Change from Previous Period   All groups CPI   Brisbane,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+272,Percentage Change from Previous Period   All groups CPI   Adelaide,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+273,Percentage Change from Previous Period   All groups CPI   Perth,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+274,Percentage Change from Previous Period   All groups CPI   Hobart,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+275,Percentage Change from Previous Period   All groups CPI   Darwin,Percent,Original,PERCENT,Quarter,3,12/1/1980 0:00,6/1/2025 0:00,179
+276,Percentage Change from Previous Period   All groups CPI   Canberra,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+277,Percentage Change from Previous Period   All groups CPI   Australia,Percent,Original,PERCENT,Quarter,3,12/1/1948 0:00,6/1/2025 0:00,307
+278,Employed total   Persons,0,Trend,STOCK,Month,1,2/1/1978 0:00,6/1/2025 0:00,569
+279,Employed total   Persons .1,0,Seasonally Adjusted,STOCK,Month,1,2/1/1978 0:00,6/1/2025 0:00,569
+280,Unemployment rate   Persons,Percent,Trend,PERCENT,Month,1,2/1/1978 0:00,6/1/2025 0:00,569
+281,Unemployment rate   Persons .1,Percent,Seasonally Adjusted,PERCENT,Month,1,2/1/1978 0:00,6/1/2025 0:00,569
+282,Unemployment rate   Persons .2,Percent,Original,PERCENT,Month,1,2/1/1978 0:00,6/1/2025 0:00,569
+283,GDP per capita: Chain volume measures,$,Original,DERIVED,Quarter,3,9/1/1959 0:00,3/1/2025 0:00,263
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,A2302460K,,,,,,
