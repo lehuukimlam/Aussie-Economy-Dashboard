@@ -59,35 +59,24 @@ Data was modeled in Power BI using:
 
 ---
 
-##  5. Evaluation
+### 5. Evaluation
 
-The final dashboard was evaluated based on clarity, insight generation, and usability. Here's how the design performed across key criteria:
+Each section of the Power BI dashboard supports the business goal of monitoring and understanding Australia’s economic trends across time and regions:
 
----
+#### Macro Page
+- **KPI Cards** display key national metrics (GDP, GDP per Capita, CPI, Trade Imbalance, Unemployment Rate), with YoY % change indicators to signal economic direction.
+- **Economy Status Label** (e.g., Peak, Mixed, Recession) is algorithmically generated based on cash rate trends and macro deltas, offering a quick classification of economic conditions.
+- **Single-Year Selection** enables users to assess the macroeconomic snapshot for a chosen year, supporting point-in-time decision-making.
+- **Time Range Slider** facilitates multi-year trend analysis for identifying growth or contraction phases across indicators.
 
-### 🔹 **Clarity**
+#### Cities & States Page
+- **State-Level Bar Charts** allow comparisons across GDP, GDP per Capita, and Employment-to-Population Ratio to uncover disparities and regional strengths.
+- **City-Level Charts** visualize CPI changes to reflect cost-of-living trends in urban areas.
+- **Treemaps** categorize GDP by sector and Employment by industry, offering a breakdown of economic composition across geographies.
 
-The dashboard uses consistent design principles — large KPI cards, clean chart layouts, and filter controls — to simplify complex economic data. Each page serves a distinct analytical purpose, enabling users to follow a logical data story.
-
----
-
-### 🔹 **Insight Generation**
-
-Each section of the dashboard contributes unique insights:
-
-- **Macro Page**:
-  - **KPI cards** display key metrics (GDP, GDP per Capita, CPI, Trade Imbalance, Unemployment), including YoY % changes.
-  - **Economy Status Label** (e.g., *Peak*, *Mixed*, *Recession*) is dynamically generated based on macro signals like cash rate and indicator deltas.
-  - **Single-year selection** allows users to isolate and evaluate yearly performance.
-  - **Time-range slider** supports multi-year trend analysis.
-
-- **Cities and States Page**:
-  - Comparative bar charts by state (GDP, GDP per capita, Employment-to-Population Ratio) and by city (CPI).
-  - Treemaps show **GDP by sector** and **employment by industry**, offering visual insights into economic structure across geographies.
-
-- **Correlation Matrix Page**:
-  - Correlation table shows statistical relationships among key macro indicators.
-  - Paired scatter plots help identify patterns such as positive correlation between GDP and exports, or inverse trends between GDP and unemployment.
+#### Correlation Matrix Page
+- **Correlation Table** quantifies the statistical relationships among core macro indicators, assisting in hypothesis generation (e.g., does higher GDP align with lower unemployment?).
+- **Scatter Plots** help users visually detect linear or inverse relationships between paired metrics, aiding both intuitive understanding and deeper data exploration.
 
 
 ---
@@ -132,6 +121,7 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 ## 📄 License
 
 MIT — feel free to fork, build, or contribute.
+
 
 
 
