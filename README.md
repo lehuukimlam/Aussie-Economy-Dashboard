@@ -59,41 +59,35 @@ Data was modeled in Power BI using:
 
 ---
 
-### 5. Evaluation
+##  5. Evaluation
 
 The final dashboard was evaluated based on clarity, insight generation, and usability. Here's how the design performed across key criteria:
 
-Clarity
+---
 
-The dashboard employs consistent design principles — large KPI cards, clean chart layouts, and filter controls — that make complex economic data easy to interpret. Each page focuses on a distinct analytical purpose, allowing users to follow logical visual flows.
+### 🔹 **Clarity**
 
-Insight Generation
+The dashboard uses consistent design principles — large KPI cards, clean chart layouts, and filter controls — to simplify complex economic data. Each page serves a distinct analytical purpose, enabling users to follow a logical data story.
 
-Each section of the dashboard serves a clear analytical purpose:
+---
 
-Macro Page:
+### 🔹 **Insight Generation**
 
-Top KPI cards provide a snapshot of key indicators (GDP, GDP per Capita, CPI, Trade Imbalance, Unemployment) with automatic YoY change calculation.
+Each section of the dashboard contributes unique insights:
 
-The "Economy Status" label (Peak, Recession, Mixed) summarizes macro conditions based on rate changes and interest targets.
+- **Macro Page**:
+  - **KPI cards** display key metrics (GDP, GDP per Capita, CPI, Trade Imbalance, Unemployment), including YoY % changes.
+  - **Economy Status Label** (e.g., *Peak*, *Mixed*, *Recession*) is dynamically generated based on macro signals like cash rate and indicator deltas.
+  - **Single-year selection** allows users to isolate and evaluate yearly performance.
+  - **Time-range slider** supports multi-year trend analysis.
 
-Year selector (single year) allows users to study performance in that year alone.
+- **Cities and States Page**:
+  - Comparative bar charts by state (GDP, GDP per capita, Employment-to-Population Ratio) and by city (CPI).
+  - Treemaps show **GDP by sector** and **employment by industry**, offering visual insights into economic structure across geographies.
 
-Time slider enables trend analysis across multi-year periods.
-
-Cities and States Page:
-
-Provides comparative views across states for GDP, GDP per capita, and employment ratio.
-
-CPI is displayed by major cities due to data limitations.
-
-Two tree maps visualize sectoral GDP and industry employment, enabling a quick grasp of economic composition by state or city.
-
-Correlation Matrix Page:
-
-Includes a correlation matrix and scatter plots showing relationships between key macro indicators such as GDP, Exports, Unemployment, and Inflation.
-
-Allows users to explore the direction and strength of associations over time.
+- **Correlation Matrix Page**:
+  - Correlation table shows statistical relationships among key macro indicators.
+  - Paired scatter plots help identify patterns such as positive correlation between GDP and exports, or inverse trends between GDP and unemployment.
 
 
 ---
@@ -138,5 +132,6 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 ## 📄 License
 
 MIT — feel free to fork, build, or contribute.
+
 
 
