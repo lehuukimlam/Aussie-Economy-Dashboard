@@ -61,7 +61,40 @@ Data was modeled in Power BI using:
 
 ### 5. Evaluation
 
-*(To be completed once final Power BI design is in place)*
+The final dashboard was evaluated based on clarity, insight generation, and usability. Here's how the design performed across key criteria:
+
+Clarity
+
+The dashboard employs consistent design principles — large KPI cards, clean chart layouts, and filter controls — that make complex economic data easy to interpret. Each page focuses on a distinct analytical purpose, allowing users to follow logical visual flows.
+
+Insight Generation
+
+Each section of the dashboard serves a clear analytical purpose:
+
+Macro Page:
+
+Top KPI cards provide a snapshot of key indicators (GDP, GDP per Capita, CPI, Trade Imbalance, Unemployment) with automatic YoY change calculation.
+
+The "Economy Status" label (Peak, Recession, Mixed) summarizes macro conditions based on rate changes and interest targets.
+
+Year selector (single year) allows users to study performance in that year alone.
+
+Time slider enables trend analysis across multi-year periods.
+
+Cities and States Page:
+
+Provides comparative views across states for GDP, GDP per capita, and employment ratio.
+
+CPI is displayed by major cities due to data limitations.
+
+Two tree maps visualize sectoral GDP and industry employment, enabling a quick grasp of economic composition by state or city.
+
+Correlation Matrix Page:
+
+Includes a correlation matrix and scatter plots showing relationships between key macro indicators such as GDP, Exports, Unemployment, and Inflation.
+
+Allows users to explore the direction and strength of associations over time.
+
 
 ---
 
@@ -105,4 +138,5 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 ## 📄 License
 
 MIT — feel free to fork, build, or contribute.
+
 
