@@ -29,8 +29,8 @@ These indicators help stakeholders make informed decisions across economic, fina
 ### 2. Data Understanding
 
 **Primary Sources:**
-- 📊 ABS (Australian Bureau of Statistics)
-- 🏦 RBA (Reserve Bank of Australia)
+- ABS (Australian Bureau of Statistics)
+- RBA (Reserve Bank of Australia)
 
 Datasets include GDP, CPI, unemployment rate, interest rate, exports, imports, GVA, and state-level economic figures. All are publicly available and regularly updated.
 
@@ -87,7 +87,7 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── data/            # Raw ABS & RBA datasets
@@ -100,7 +100,7 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python (Pandas, openpyxl)
 - Power BI Desktop
@@ -109,7 +109,7 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 
 ---
 
-## 🧠 Future Enhancements
+##  Future Enhancements
 
 - Automate ABS data pulls via web scraping or API
 - Add forecasting models for GDP & CPI
@@ -118,9 +118,10 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 
 ---
 
-## 📄 License
+##  License
 
 MIT — feel free to fork, build, or contribute.
+
 
 
 
