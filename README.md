@@ -9,7 +9,7 @@ The project follows the CRISP-DM (Cross-Industry Standard Process for Data Minin
 ## Project Workflow
 <img width="1357" height="518" alt="image" src="https://github.com/user-attachments/assets/af5be13f-9f8b-464d-94a6-70d5ecc8256d" />
 
-## 📌 Framework: CRISP-DM
+##  Framework: CRISP-DM
 
 ### 1. Business Understanding
 
@@ -121,6 +121,7 @@ While public Power BI publishing isn't available due to license limits, the `.pb
 ##  License
 
 MIT — feel free to fork, build, or contribute.
+
 
 
 
